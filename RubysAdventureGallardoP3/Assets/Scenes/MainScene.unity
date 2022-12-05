@@ -85979,6 +85979,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1311068143201723340, guid: bbd3e55b9b5fbbe4d805fc702f15fdd3, type: 3}
+      propertyPath: projectilePrefab
+      value: 
+      objectReference: {fileID: 4515835642308015428, guid: 4a1f080db4fca534eb893bd9a905263e, type: 3}
     - target: {fileID: 1311068143201723341, guid: bbd3e55b9b5fbbe4d805fc702f15fdd3, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -86425,6 +86429,10 @@ PrefabInstance:
     - target: {fileID: 5213459885827467069, guid: c70b730d7f4397f4fa8471d5ec2f2dd4, type: 3}
       propertyPath: m_Name
       value: Bot
+      objectReference: {fileID: 0}
+    - target: {fileID: 5213459885827467069, guid: c70b730d7f4397f4fa8471d5ec2f2dd4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c70b730d7f4397f4fa8471d5ec2f2dd4, type: 3}
