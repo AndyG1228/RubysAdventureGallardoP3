@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5583504512187759399}
   - component: {fileID: 5583504512187759398}
   m_Layer: 0
-  m_Name: TreeBig1
+  m_Name: LimeTree
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
